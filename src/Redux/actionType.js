@@ -23,3 +23,7 @@ export const recruiterLoginError = "recruiterLoginError";
 export const recruiterJobPostRequest = "recruiterJobPostRequest";
 export const recruiterJobPostSuccess = "recruiterJobPostSuccess";
 export const recruiterJobPostError = "recruiterJobPostError";
+
+export const recruiterAllJobsRequest = "recruiterAllJobsRequest";
+export const recruiterAllJobsSuccess = "recruiterAllJobsSuccess";
+export const recruiterAllJobsError = "recruiterAllJobsError";
